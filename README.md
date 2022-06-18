@@ -1,1 +1,2 @@
 Sejam bem vindos ao Labe-commerce, esse repositório contém um esqueleto de app React e um .gitignore.
+efetuar o uso de pastas duplas é um conceito muitp problematico e complicado nao to conseguindo executar direito.
